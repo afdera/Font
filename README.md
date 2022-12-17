@@ -1,2 +1,2 @@
-# Font
-Fonts
+# Fonts
+LiquidBounce load Fonts
